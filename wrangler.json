@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "d1-worker-contactform",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "12b3dc65-aaec-4682-a261-437ca5c931d0",
+			"database_name": "willemdewit-work"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
